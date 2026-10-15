@@ -1,0 +1,2 @@
+# fdc-bin
+Binaries Storage
